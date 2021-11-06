@@ -1,5 +1,4 @@
 # ECO-Energy-21
-ECO-Energy 21 - Trata-se de um Projeto sobre Energia Limpa, Sustentável e Acessível. 
 ECO-Energy 21
 Trata-se de um Projeto sobre Energia Limpa, Sustentável e Acessivel.
 Buscamos soluções/opções que contribuam com meio ambiente e redução de custo acessivel.
